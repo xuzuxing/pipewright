@@ -264,6 +264,8 @@ export default {
   closeDrawer: 'Panel schließen',
   expandCommandEditor: 'Vergrößerten Befehlseditor öffnen',
   commandEditorTitle: 'Ausführungsbefehle bearbeiten',
+  applyCommandsToNode: 'Auf Knoten anwenden',
+  commandEditorConflict: 'Die Befehle wurden aktualisiert. Kopieren Sie bei Bedarf den Entwurf und öffnen Sie den Editor erneut.',
   basicInfo: 'Grundinformationen',
   jobNameLabel: 'Jobname',
   jobNamePlaceholder: 'z. B.: Isolierter Build',
